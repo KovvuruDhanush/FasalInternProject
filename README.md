@@ -74,15 +74,14 @@ The application will display a list of movies that match the search query.
 
 Note :
 
-Example
-Open index.html in your web browser.
+#Example
 
-**Log in using:
+##Open index.html in your web browser.
 
-Username: user
+Log in using:
 
-
-Password: password**
+###Username: user
+###Password: password**
 
 
 Enter a movie name in the search form and click the search button.
