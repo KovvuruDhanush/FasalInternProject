@@ -22,8 +22,6 @@ This project is organized into three main files:
 
 
 
-
-
 ## How to Run the Project
 
 To run the project locally, follow these steps:
@@ -32,10 +30,6 @@ To run the project locally, follow these steps:
    ```bash
    git clone https://github.com/KovvuruDhanush/FasalInternProject.git
    cd FasalInternProject
-
-
-
-
 Open index.html: Open the index.html file in your preferred web browser to launch the application.
 
 
@@ -49,6 +43,8 @@ Password: password
 **
 
 These credentials are provided for demonstration purposes to showcase the login functionality.
+
+
 
 
 
@@ -84,6 +80,8 @@ Open index.html in your web browser.
 **Log in using:
 
 Username: user
+
+
 Password: password**
 
 
