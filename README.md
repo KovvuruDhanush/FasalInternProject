@@ -38,9 +38,9 @@ Open index.html: Open the index.html file in your preferred web browser to launc
 Static Login Credentials
 To access the application, you'll need to use the following static credentials:
 
-**Username: user
-Password: password
-**
+- **Username: user**
+- **Password: password**
+
 
 These credentials are provided for demonstration purposes to showcase the login functionality.
 
@@ -48,42 +48,39 @@ These credentials are provided for demonstration purposes to showcase the login 
 
 
 
-**
-Features
-**
+
+#### Features
+
 
 Login Form: Users must log in using the static credentials to access the movie search functionality.
 
-**
-Movie Search**: After logging in, users can search for movies using the TVMaze API. The search results will display as cards with the movie's image, title, and summary.
+###### Movie Search: After logging in, users can search for movies using the TVMaze API. The search results will display as cards with the movie's image, title, and summary.
 
 
 
 
-Usage
+##### Usage
+
+##### Login: Enter the static username and password (user and password) to log in.
+
+##### Search for Movies: Enter a movie name in the search form and click the search button. 
+
+##### The application will display a list of movies that match the search query.
 
 
-Login: Enter the static username and password (user and password) to log in.
+# Note :
 
+## Example
 
-Search for Movies: Enter a movie name in the search form and click the search button. 
+####  Open index.html in your web browser.
 
+### Log in using:
 
-The application will display a list of movies that match the search query.
-
-
-Note :
-
-#Example
-
-##Open index.html in your web browser.
-
-Log in using:
-
-###Username: user
-###Password: password**
+## Username: user
+## Password: password
 
 
 Enter a movie name in the search form and click the search button.
+
 The search results will be displayed as cards, each containing the movie's image, title, and summary.
 
