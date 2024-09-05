@@ -1,8 +1,8 @@
-# FasalInternProject
+# InternProject
 This Project is for my Fasal Intern.
 
 
-# Fasal Intern Project
+#  Intern Project
 
 
 
